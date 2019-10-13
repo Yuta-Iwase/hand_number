@@ -20,6 +20,7 @@ zipで落とすかgit cloneコマンドで複製する
     ```
 3. serve.pyを実行
     ```
+    cd hand_numberフォルダへのパス
     python serve.py
     ```
 4. http://127.0.0.1:8080 を開く
